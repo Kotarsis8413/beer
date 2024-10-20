@@ -35,3 +35,11 @@ a {
     font-size: 25px;
     color: rgb(0, 0, 150);
 }
+
+table {
+    background-color: black;
+}
+
+td {
+    background-color: rgb(80, 80, 80);
+}
