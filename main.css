@@ -36,6 +36,8 @@
     font-size: 25px;
     width: 100%;
     overflow-y: auto; /* Прокрутка контента при переполнении */
+    display: flex;
+    justify-items: center;
 }
 
 a {
