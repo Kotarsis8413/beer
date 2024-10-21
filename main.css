@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(0, 0, 60);
+}
+
 .header {
     position: fixed;
     left: 0;
